@@ -3,6 +3,9 @@
 * Initial page
 * 平台简介
 * 1. 基础组件
+  * [1.1 播音控件](1.-ji-chu-zu-jian/1.1-bo-yin-kong-jian.md)
+  * [1.2 统一文件存储](1.-ji-chu-zu-jian/1.2-tong-yi-wen-jian-cun-chu.md)
+  * [1.3 日志系统 - ELK](1.-ji-chu-zu-jian/1.3-ri-zhi-xi-tong-elk.md)
 * 2. 语音处理类
   * [2.1 音视频预处理](2.-yu-yin-chu-li-lei/2.1-yin-shi-pin-yu-chu-li.md)
   * [2.2 语种识别](2.-yu-yin-chu-li-lei/1.1-yu-yin-bian-jie-ma.md)
