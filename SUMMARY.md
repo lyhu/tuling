@@ -1,7 +1,7 @@
 # Table of contents
 
 * Initial page
-* 平台简介
+* [平台简介](ping-tai-jian-jie.md)
 * 1. 基础组件
   * [1.1 播音控件](1.-ji-chu-zu-jian/1.1-bo-yin-kong-jian.md)
   * [1.2 统一文件存储](1.-ji-chu-zu-jian/1.2-tong-yi-wen-jian-cun-chu.md)
